@@ -11,7 +11,7 @@ export const menuData = [
     id: 2,
     name: "Paneer Tikka",
     description: "Marinated cottage cheese cubes grilled in a tandoor",
-    price: 300,  // INR
+    price: 130,  // INR
     category: "appetizers",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -27,7 +27,7 @@ export const menuData = [
     id: 4,
     name: "Dosa",
     description: "Crispy fermented rice crepe served with coconut chutney and sambar",
-    price: 120,  // INR
+    price: 40,  // INR
     category: "main courses",
     dietary: ["vegetarian", "vegan", "gluten-free"]
   },
@@ -35,7 +35,7 @@ export const menuData = [
     id: 5,
     name: "Idli",
     description: "Steamed rice cakes served with coconut chutney and sambar",
-    price: 100,  // INR
+    price: 40,  // INR
     category: "main courses",
     dietary: ["vegetarian", "vegan", "gluten-free"]
   },
@@ -43,7 +43,7 @@ export const menuData = [
     id: 6,
     name: "South Indian Thali",
     description: "A platter with rice, sambar, rasam, curd, and various sides",
-    price: 250,  // INR
+    price: 170,  // INR
     category: "main courses",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -51,7 +51,7 @@ export const menuData = [
     id: 7,
     name: "North Indian Thali",
     description: "A platter with roti, dal, sabzi, rice, and curd",
-    price: 300,  // INR
+    price: 170,  // INR
     category: "main courses",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -67,7 +67,7 @@ export const menuData = [
     id: 9,
     name: "Curd Rice",
     description: "Rice mixed with yogurt and tempered with mustard seeds",
-    price: 150,  // INR
+    price: 60,  // INR
     category: "main courses",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -75,7 +75,7 @@ export const menuData = [
     id: 10,
     name: "Sambar Rice",
     description: "Rice cooked with sambar and served with chutney",
-    price: 180,  // INR
+    price: 60,  // INR
     category: "main courses",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -107,7 +107,7 @@ export const menuData = [
     id: 14,
     name: "Chole Bhature",
     description: "Spicy chickpeas served with deep-fried bread",
-    price: 180,  // INR
+    price: 120,  // INR
     category: "main courses",
     dietary: ["vegetarian"]
   },
@@ -115,7 +115,7 @@ export const menuData = [
     id: 15,
     name: "Dal Tadka",
     description: "Yellow lentils tempered with ghee, cumin, garlic, and red chili",
-    price: 150,  // INR
+    price: 110,  // INR
     category: "main courses",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -123,7 +123,7 @@ export const menuData = [
     id: 16,
     name: "Vegetable Biryani",
     description: "Basmati rice cooked with vegetables, saffron, and spices",
-    price: 220,  // INR
+    price: 190,  // INR
     category: "main courses",
     dietary: ["vegetarian", "gluten-free"]
   },
@@ -163,7 +163,7 @@ export const menuData = [
     id: 21,
     name: "Filter Coffee",
     description: "Traditional South Indian coffee brewed with filter and served with milk",
-    price: 40,  // INR
+    price: 30,  // INR
     category: "drinks",
     dietary: ["vegetarian"]
   },
